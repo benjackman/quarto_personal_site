@@ -2,20 +2,20 @@
 about:
   template: jolla
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/personal_photo_fuji_crop.jpg"
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/MarvinSchmittML
+      href: https://twitter.com/bentjackman
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
+      href: https://github.com/benjackman
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      href: https://www.linkedin.com/in/ben-t-jackman/
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "mailto:ben.jackman@gmail.com"  
 ---
 
 ::: {#about-block}
