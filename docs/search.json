@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website!",
+    "title": "Ben Jackman",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI’m an economist and data scientist in Sydney, Australia. I currently work in the Monetary Policy Implementation team at the Reserve Bank of Australia - we manage the RBA’s interactions in domestic financial markets, administer the policy facilities, the Aussie bond portfolio, and so on. I have a background in economics and data science from a Masters of Social Data Science from the Oxford Internet Institute at Oxford, and a Bachelor of Economics (quantitative methods) from the University of Queensland. You can find more about my professional experience and education by clicking on CV, above.\nI’m interested in macroeconomics, finance, central banking, and data science. The public work post highlights some of my publicly available professional work, and others document what else I’ve been tinkering with. You can contact me via email, Twitter (‘X’), or on the Bloomberg terminal.\nThis an updated personal website using the new Quarto framework, primarily built via RStudio. Thanks to Marvin Schmitt for the helpful template."
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nBen Jackman\nI’m an economist and data scientist in Sydney. I work in Monetary Policy Implementation at the Reserve Bank of Australia. I have a background in economics and data science – you can find more about my experience and education in my CV. I’m interested in macro, finance, central banking, and data science. The public work post highlights some of my publicly available professional work, and others document what else I’ve been tinkering with. You can contact me via email, Twitter, or on the terminal.\nThis an updated personal website using the new Quarto framework, primarily built via RStudio. Thanks to Marvin Schmitt for the helpful template."
   },
   {
     "objectID": "photography/index.html",
@@ -23,22 +23,29 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Professional Work",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "In 2022 my colleague Ahmet Aziz and I wrote in the RBA Bulletin about the AOFM and RBA’s securities lending, which had grown to very large levels that year. This article discusses the purpose and design of the securities lending facilities, why their usage had grown so much, and a stylised example of the bonds-futures basis trade underlying some of the activity."
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
+    "objectID": "projects/index.html#december-2022---securities-lending",
+    "href": "projects/index.html#december-2022---securities-lending",
+    "title": "Professional Work",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "In 2022 my colleague Ahmet Aziz and I wrote in the RBA Bulletin about the AOFM and RBA’s securities lending, which had grown to very large levels that year. This article discusses the purpose and design of the securities lending facilities, why their usage had grown so much, and a stylised example of the bonds-futures basis trade underlying some of the activity."
   },
   {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "objectID": "projects/index.html#august-2021---use-of-the-tff",
+    "href": "projects/index.html#august-2021---use-of-the-tff",
+    "title": "Professional Work",
+    "section": "August 2021 - Use of the TFF",
+    "text": "August 2021 - Use of the TFF\n\narXiv Preprint | Code\nIn August 2021 we provided an update in the Statement on Monetary Policy on usage of the Term Funding Facility (more detail see below). This outlined how most of the funding available under the TFF was drawndown, and includes a table of the top 10 biggest borrowers."
+  },
+  {
+    "objectID": "projects/index.html#december-2020---the-term-funding-facility",
+    "href": "projects/index.html#december-2020---the-term-funding-facility",
+    "title": "Professional Work",
+    "section": "December 2020 - The Term Funding Facility",
+    "text": "December 2020 - The Term Funding Facility\n\narXiv Preprint | Code\nIn December 2020, some of my colleagues and I put out an article in the RBA Bulletin on the RBA’s Term Funding Facility (TFF). It outlined the purpose and design of the facility, as well as how it had been used to date.\nIn March 2020, I returned to Australia from full-time study 6 months earlier than expected as the severity of the pandemic became clear. I offered to give my colleagues a hand with their workload, expecting to do some odd jobs, but ended up helping set up the TFF. This became most of my work for two years, and was an enjoyable experience where I learned a lot.\n\nView the tutorial for this template (+ download link)"
   }
 ]

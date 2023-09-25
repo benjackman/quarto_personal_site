@@ -4,12 +4,12 @@ website:
   description: "Macroeconomics, finance and data science, Sydney."   # A brief slogan (optional)
   image: img/personal_photo_fuji_crop.jpg
   
-  favicon: img/favicon.png
+  favicon: img/hexagon-logo.svg
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/hexagon-logo.svg
     
     # your sub-pages
     left:
@@ -25,7 +25,7 @@ website:
       - icon: folder-symlink
         href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
+        href: https://twitter.com/bentjackman
       - icon: linkedin
         href: https://www.linkedin.com/in/ben-t-jackman/
       - icon: envelope

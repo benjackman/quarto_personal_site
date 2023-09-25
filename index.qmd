@@ -21,10 +21,8 @@ about:
 ::: {#about-block}
 :::
 
-# Welcome to my website!
+# Ben Jackman
 
-I'm an economist and data scientist in Sydney, Australia. I currently work in the Monetary Policy Implementation team at the Reserve Bank of Australia - we manage the RBA's interactions in domestic financial markets, administer the policy facilities, the Aussie bond portfolio, and so on. I have a background in economics and data science from a Masters of Social Data Science from the Oxford Internet Institute at Oxford, and a Bachelor of Economics (quantitative methods) from the University of Queensland. You can find more about my professional experience and education by clicking on CV, above.
-
-I'm interested in macroeconomics, finance, central banking, and data science. The public work post highlights some of my publicly available professional work, and others document what else I've been tinkering with. You can contact me via email, Twitter ('X'), or on the Bloomberg terminal.
+I'm an economist and data scientist in Sydney. I work in Monetary Policy Implementation at the Reserve Bank of Australia. I have a background in economics and data science -- you can find more about my experience and education in my CV. I'm interested in macro, finance, central banking, and data science. The public work post highlights some of my publicly available professional work, and others document what else I've been tinkering with. You can contact me via email, Twitter, or on the terminal.
 
 This an updated personal website using the new Quarto framework, primarily built via RStudio. Thanks to [Marvin Schmitt](https://www.marvinschmitt.com/) for the helpful template.
