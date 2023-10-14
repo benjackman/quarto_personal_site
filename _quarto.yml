@@ -13,8 +13,8 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
-        href: projects/index.qmd
+      - text: "Public Work"
+        href: public_work/index.qmd
       - text: "Photography"
         href: photography/index.qmd
       - text: "CV"
