@@ -3,7 +3,8 @@
     "bash": {
       "cd /Users/ben/Documents/GitHub/quarto_personal_site": "allow",
       "quarto render 2>&1": "allow",
-      "mkdir -p /Users/ben/Documents/GitHub/quarto_personal_site/tinkering": "allow"
+      "mkdir -p /Users/ben/Documents/GitHub/quarto_personal_site/tinkering": "allow",
+      "ls *": "allow"
     },
     "edit": {
       "*": "allow"

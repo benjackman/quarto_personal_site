@@ -22,10 +22,8 @@ website:
     
     # your social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
-      - icon: twitter
-        href: https://twitter.com/bentjackman
+      - icon: twitter-x
+        href: https://x.com/bentjackman
       - icon: linkedin
         href: https://www.linkedin.com/in/ben-t-jackman/
       - icon: envelope
@@ -40,11 +38,9 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2026 Ben Jackman</span>
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
-    right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block">Built with <a href="https://quarto.org/">Quarto</a>. Template by <a href="https://marvin-schmitt.com/">Marvin Schmitt</a>.</span>
 
 project:
   type: website

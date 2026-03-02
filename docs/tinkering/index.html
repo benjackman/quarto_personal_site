@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -107,12 +107,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/"> <i class="bi bi-folder-symlink" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/bentjackman"> <i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://x.com/bentjackman"> <i class="bi bi-twitter-x" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -137,9 +132,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -160,8 +156,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="posits-ai-beta" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="posits-ai-beta">Posit’s AI Beta</h2>
+<p><em>3 March 2026</em></p>
+<p>Posit is currently running a private beta test of its AI product for RStudio, powered by Claude under the hood. I was lucky enough to receive an invite and have been tinkering with it as a result. The integration is in a new left-hand pane, like you can see in the image below.</p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="tinkering-3-march-2026-rstudio-view.png" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption">RStudio with the Posit AI pane</figcaption>
+</figure>
+</div>
+<p>Even as someone relatively bullish on AI’s potential for software and data science, having Claude integrated directly into the RStudio IDE has been better than I expected. It can view files in the workspace, understand relevant context, and edit files, all relatively seamlessly. And this extends to built-in tools like bash commands, which means Claude can render Quarto documents and sites (like this one!), check files in folders, and more.</p>
+<p>But more so, the RStudio integration seems quite thoughtful. Claude’s use of tools and deletions is helpfully controlled with the user via the AI pane within RStudio, with interactive checks that allow you to deny, approve, or ‘approve all for this project’ of a given tool. This gives you the right level of control depending on your use case. Below is an example of Claude’s workflow for rejecting tool use in the AI pane.</p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="tinkering-3-march-2026 -reject-tool-use.png" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption">The approve/deny workflow for tool use</figcaption>
+</figure>
+</div>
+<p>Having used AI tools for R coding before, it’s the tooling - not just the model — that makes a big difference existing options. Having context immediately available and in-line tooling is a meaningful step up. For me, this feels like a significant improvement even over GitHub Copilot editing R files in VS Code.</p>
+<p>Next steps in my testing for this tooling will include more detailed R package development, as well as heavier data tasks — particularly graph-making and running complex data workflows involving complicated models.</p>
+<p>I also wonder whether Posit will allow different models to be integrated into the harness - that could improve compatibility across enterprise environments who are customers of AI providers other than Anthropic.</p>
+<p>Regardless — thanks to Posit for producing this great product. It’s a credit to their team, and I can’t wait to keep using it even after the private beta. Thanks also to my new R coding buddy - this post benefited from Claude’s helpful edits.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -568,14 +587,14 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><span class="faux-block">© 2023 Marvin Schmitt CC BY-SA 4.0</span></p>
+<p><span class="faux-block">© 2026 Ben Jackman</span></p>
 </div>   
     <div class="nav-footer-center">
-<p><span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span></p>
+<p><span class="faux-block">Built with <a href="https://quarto.org/">Quarto</a>. Template by <a href="https://marvin-schmitt.com/">Marvin Schmitt</a>.</span></p>
 </div>
     <div class="nav-footer-right">
-<p><span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span></p>
-</div>
+      &nbsp;
+    </div>
   </div>
 </footer>
 
