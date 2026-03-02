@@ -22,4 +22,4 @@ Next steps in my testing for this tooling will include more detailed R package d
 
 I also wonder whether Posit will allow different models to be integrated into the harness, which could improve compatibility across enterprise environments served by AI providers other than Anthropic.
 
-Regardless — thanks to Posit for producing this great product. It's a credit to their team, and I can't wait to keep using it even after the private beta. Thanks also to my new R coding buddy - this post benefited from Claude's helpful edits.
+Regardless, thanks to Posit for producing this great product. It's a credit to their team, and I can't wait to keep using it even after the private beta. Thanks also to my new R coding buddy - this post benefited from Claude's helpful edits.
