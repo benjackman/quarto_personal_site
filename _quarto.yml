@@ -15,8 +15,8 @@ website:
     left:
       - text: "Public Work"
         href: public_work/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
+      - text: "Tinkering"
+        href: tinkering/index.qmd
       - text: "CV"
         href: cv/index.qmd
     

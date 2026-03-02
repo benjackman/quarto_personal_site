@@ -6,3 +6,5 @@
 /.quarto/
 .DS_Store
 Useful code chunks.txt
+
+**/*.quarto_ipynb
